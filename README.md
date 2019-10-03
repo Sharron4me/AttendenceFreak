@@ -5,6 +5,8 @@ Link To mis login: https://14.139.110.183/geca/
 
 Captcha Cracker Jupyter NoteBook : https://github.com/Sharron4me/Captcha-Cracker
 
+LinkedIn Post Link: https://www.linkedin.com/feed/update/urn:li:activity:6583998680804749312/
+
 ### Uses Of This Application
 This Application is mainly targeted to fetch student Attendence using selenium and machine learning. 
 We have created a machine learning model using keras and tensorflow. 
