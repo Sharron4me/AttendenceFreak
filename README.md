@@ -1,4 +1,4 @@
-# AttendenceFreak
+# Captcha Cracker
 Combining The Power Of Machine Learning And Automation , We Made A Tool To By Pass Captcha Of Government College Of Engineering, Aurangabad's MIS Login using Machine Learning and Selenium's Automation.
 
 Link To mis login: https://14.139.110.183/geca/
